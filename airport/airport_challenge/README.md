@@ -1,5 +1,4 @@
 
-Adam Snow comments
 ------------------
 * All user cases covered
 * Planes can land at Airports upto variable capacity
